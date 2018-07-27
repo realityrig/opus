@@ -12,6 +12,7 @@ platform:
 - x64
 
 environment:
+  VisualStudioVersion: 15.0
   api_key:
     secure: kR3Ac0NjGwFnTmXdFrR8d6VXjdk5F7L4F/BilC4nvaM=
 
