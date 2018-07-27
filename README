@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frealityrig%2Fopus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frealityrig%2Fopus?ref=badge_shield)
+
 == Opus audio codec ==
 
 Opus is a codec for interactive speech and audio transmission over the Internet.
@@ -159,3 +161,7 @@ o The result of integer division of a negative value is truncated
 
 o The compiler provides a 64-bit integer type (a C99 requirement
   which is supported by most C89 compilers).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frealityrig%2Fopus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frealityrig%2Fopus?ref=badge_large)
